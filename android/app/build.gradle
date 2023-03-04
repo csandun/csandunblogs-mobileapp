@@ -33,7 +33,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.vandit.newswipe"
+        applicationId "com.csandun.csandunblogs"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode flutterVersionCode.toInteger()
